@@ -1,3 +1,4 @@
+package codigo;
 
 public class Llanta {
 	int numeroLlantas=0;
