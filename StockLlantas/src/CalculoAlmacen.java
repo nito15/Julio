@@ -1,4 +1,4 @@
-
+//Comentario prueba
 public class CalculoAlmacen {
 	Llanta[] llantasAlmacen1=new Llanta[10];
 	Llanta[] llantasAlmacen2=new Llanta[5];
